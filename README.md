@@ -25,10 +25,18 @@ This readme details the work of the team and serves as a guide on how to navigat
     5.2. Machine Learning on Collisions.html: The html version of the notebook. It can be opened in a browser to view without a notebook.
   6. Data Analysis: Details the EDA work done on this project, which contains visuals and other data analysis performed on various aspects of      problem, as detailed below:
 
-6.1. Intersection Characteristics Analysis of master_gdf.ipnyb: This explores the characteristics of each intersection that had a                  collision occur, and how it could have potentially impacted the collision, such as traffic control.
+    6.1. Intersection Characteristics Analysis of master_gdf.ipnyb: This explores the characteristics of each intersection that had a                  collision occur, and how it could have potentially impacted the collision, such as traffic control.
       
-6.2. Intersection Characteristics Analysis of master_gdf.html: The html version of the notebook, capable of being viewed in any web                browser.
+    6.2. Intersection Characteristics Analysis of master_gdf.html: The html version of the notebook, capable of being viewed in any web                browser.
+    
+    
     6.3. Spatial Analysis of master_gdf.ipnyb: Explores the spatial characteristics of each intersection that had a collision, and how it              may have impacted the collision itself. This takes into consideration more geometric attributes.
+    
+    
     6.4. Spatial Analysis of master_gdf.html: The html version of the notebook, capable of being viewed in any web browser.
+    
+    
     6.5. Temporal Analysis of master_gdf.ipnyb: Explores the temporal characteristics of each intersection that had a collision, and how it            may have impacted the collision itself. This takes into consideration more datetime attributes and elements impacting collisions              that are subject to time, like weather conditions and seasonality.
+    
+    
     6.6. Temporal Analysis of master_gdf.html: The html version of the notebook, capable of being viewed in any web browser.
