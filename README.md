@@ -1,11 +1,13 @@
 # CME538-DEADLY-COLLISION-PROJECT
 
 OVERVIEW
+
 This repository contains the python coding that looks into exploring the potential intersection factors that increase the likelihood of a deadly or seriously injuring collision and use said research to find trends in such causes, as well explore potential models that can map out the probability of said collisions based on input feature characteristics. 
 
 The project contains aspects of pulling, building and cleaning the data, performing visual and data analysis on it, and finally machine learning to explore the potential concept of ML providing the safety of an intersection based on its characteristics.
 
 CONTENTS
+
 This readme details the work of the team and serves as a guide on how to navigate through the repository. The repository’s contents are as follows:
 
   1. Motor Collisions and Traffic Volumes Data Pipeline.ipynb: This details the process form pulling the data to creating the master               dataframe that has every single detail on every collision that occurred in Toronto from 2011 to 2022. Features of this data include           characteristics of the crash, the intersection, and the traffic of the intersection at the time of the crash.
